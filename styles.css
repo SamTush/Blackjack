@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(115deg, rgba(80, 80, 85, 0.3), rgba(0, 0, 0, 0.3)), url("https://images.pexels.com/photos/4253692/pexels-photo-4253692.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    height: 600px;
+}
+
+.row{
+    width: 25em;
+}
+
+.col{
+    background:  linear-gradient(145deg, #014b2c, #02804b, #014b2c);
+}
+
+h1{
+    color: #ecad00;
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+h4, p{
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+.btn{
+    background-color: #ecad00;
+    font-family: 'Noto Serif Khojki', serif;
+    color: #014b2c;
+}
